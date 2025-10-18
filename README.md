@@ -28,7 +28,7 @@
 
 ### 🏆 My Key Achievements
 
-✅ Built a **Crop Disease Prediction Web App** using ML and Flask
+✅ Built a **Crop Disease Prediction Web App** using ML and Flask        
 ✅ Developed an **AI-Powered Face Detection Attendance System** with analytics  
 ✅ Designed a **Notes Web using HTML, CSS, JS With Firebase**  
 ✅ Built a **Gram Panchyat Web With Database** with Firebase 
