@@ -1,8 +1,9 @@
 <!-- 🌟 Attractive GitHub Profile README for Siddhant Sonawane -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="160" style="border-radius:50%" alt="Profile Picture"/>
+  <img src="https://media1.tenor.com/m/ZNp_Ej5ab-YAAAAd/coding.gif" width="900" style="border-radius:20px;" alt="Coding Animation"/>
 </p>
+
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff;">Siddhant Sonawane</span></h1>
 
@@ -19,27 +20,25 @@
 💫 I’m **Siddhant Sonawane**, a passionate **Computer Science and Engineering (CSE)** student  
 🎓 Currently pursuing **B.Tech** with a focus on **AI, ML, and Web Technologies**  
 💡 I love creating **innovative tech projects** that make life smarter and simpler  
-🔥 Enthusiastic about **AI, Blockchain, and Mobile App Development**  
-🌱 Currently exploring **Deep Learning** and **Next.js**  
+🔥 Enthusiastic about **AI, ML, and Mobile App Development, Web Developement**  
+🌱 Currently exploring **Deep Learning** and **Next.js , react js**  
 🧩 I believe in **learning by building** — every project tells a story!  
 
 ---
 
 ### 🏆 My Key Achievements
 
+✅ Built a **Crop Disease Prediction Web App** using ML and Flask
 ✅ Developed an **AI-Powered Face Detection Attendance System** with analytics  
-✅ Built a **Crop Disease Prediction Web App** using ML and Flask  
-✅ Created a **Blockchain-based Voting System** for college elections  
-✅ Designed a **Chatbot using HTML, CSS, JS, and AI API**  
-✅ Built a **Task Management Android App** with SQLite  
-✅ Created **AI Image Generator and Voice Assistant projects**  
+✅ Designed a **Notes Web using HTML, CSS, JS With Firebase**  
+✅ Built a **Gram Panchyat Web With Database** with Firebase 
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,androidstudio,flask,tensorflow,opencv,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,androidstudio,flask,opencv,sqlite,git,github,vscode" />
 </p>
 
 ---
@@ -57,15 +56,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🤖 **AI Attendance System** | Detects faces & tracks attendance automatically | Python, OpenCV, Flask |
-| 🌾 **Crop Disease Prediction App** | Predicts plant diseases using ML | Python, TensorFlow |
-| 🗳️ **Blockchain Voting System** | Secure voting using blockchain | Solidity, Web3 |
-| 💬 **AI Chatbot** | Smart conversational assistant | JS, HTML, CSS, API |
-| 📱 **Task Manager App** | Android app for tasks | Java, SQLite |
 
 ---
 
@@ -73,17 +64,17 @@
 - 🔹 Master **Full-Stack AI Development**
 - 🔹 Contribute to **Open Source**
 - 🔹 Launch my own **AI-powered app**
-- 🔹 Build a **personal tech portfolio website**
+
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Siddhu2k04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/siddhu-2k04/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:siddhantsonawane2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://siddhu2k04-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
