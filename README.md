@@ -1,7 +1,7 @@
 <!-- 🌟 Attractive GitHub Profile README for Siddhant Sonawane -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ZNp_Ej5ab-YAAAAd/coding.gif" width="900" style="border-radius:20px;" alt="Coding Animation"/>
+  <img src="https://media1.tenor.com/m/ZNp_Ej5ab-YAAAAd/coding.gif" width="1000" style="border-radius:20px;" alt="Coding Animation"/>
 </p>
 
 
@@ -46,7 +46,7 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu2K04&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165">
 </p>
 
