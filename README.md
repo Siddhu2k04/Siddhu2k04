@@ -46,12 +46,12 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhu2K04&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu2K04&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantsonawane&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantsonawane&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu2K04&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantsonawane&layout=compact&theme=tokyonight" />
 </p>
 
 ---
