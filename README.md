@@ -28,7 +28,7 @@
 
 ### 🏆 My Key Achievements
 
-✅ Built a **Crop Disease Prediction Web App** using ML and Flask        
+✅ Built a **AgroSmart Project** using ML and Flask        
 ✅ Developed an **AI-Powered Face Detection Attendance System** with analytics  
 ✅ Designed a **Notes Web using HTML, CSS, JS With Firebase**  
 ✅ Built a **Gram Panchyat Web With Database** with Firebase 
@@ -47,11 +47,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Siddhu2K04&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu2K04&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhu2K04&layout=compact&theme=tokyonight" />
 </p>
 
 ---
